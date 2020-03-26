@@ -1,0 +1,6 @@
+{
+    "schemaType": "NERDLET",
+    "id": "facinator-nerdlet",
+    "displayName": "Facinator",
+    "description": "Explore facets on NRQL queries"
+}

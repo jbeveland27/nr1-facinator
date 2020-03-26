@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "facinator-launcher",
+    "description": "Query facet explorer",
+    "displayName": "Facinator",
+    "rootNerdletId": "facinator-nerdlet"
+}

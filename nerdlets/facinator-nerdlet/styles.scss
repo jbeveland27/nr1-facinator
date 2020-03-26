@@ -1,0 +1,92 @@
+tr.disabled td {
+ color:grey;
+ text-decoration: line-through;
+}
+
+hr {
+    border-color: #accfd9; border-style:solid;
+}
+
+.detailRow {
+    margin-bottom: 3em;
+    pre {
+        color: #b2aeae;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    .omitted {
+        color: grey;
+    }
+    .tinyLabel {
+        text-transform:uppercase;
+        padding-left:2em;
+        padding-right: 0.2em;
+        font-size:0.5em;
+        font-weight:bold;
+        color:grey;
+    }
+    .facetDetailGroupSummary {
+        padding-left: 10px;
+        padding-bottom: 0.5em;
+        font-size:1.5em;
+        background-color: white;
+        color:grey;
+        .tinyLabel { padding-left: 0;}
+        .largerLabel { padding-left: 1em; padding-right: 2em;}
+    }
+    .graphArea {
+        background-color: white;
+    }
+    hr {border-color:#f2f1f1; border-style:solid;}
+}
+
+.detailRow h2 {
+    margin-bottom: 1em;
+    
+}
+
+.analyseButton {
+    margin-top: 2em;
+}
+
+.totalsTable {
+    margin-top: 2em;
+    table {
+        width:100%;
+    }
+}
+
+.facetsTable {
+    margin-top: 2em;
+    table {
+        width:100%;
+    }
+    div.facetsTableNote {
+        color: #b85656;
+        margin-top:2em;
+    }
+}
+
+.loader {
+    margin:3em;
+}
+.formSection {
+    background-color: white;
+    padding: 1em;
+    form {
+        margin-top:1em;
+    }
+    pre {
+        color: #308eaa;
+    }
+    div.formIntro {color: grey;}
+}
+
+.tabbedPanel {
+    padding-top: 2em;
+    padding-left: 1em;
+}
+.dataWaiting {
+
+    color:grey;
+}
