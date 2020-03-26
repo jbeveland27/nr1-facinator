@@ -10,7 +10,7 @@ A utility application that lets you easily explore the facets of the data from a
 ## Usage
 
 1. Supply a NRQL query, making sure to exclude any 'SELECT', 'TIMESERIES' or 'FACET'
-2. Provide an aggregator function (such as `count(*)`, `average(*)`, etc. Every facet will be automatically graphed using this function)
+2. Provide an aggregator function (such as `count(*)`, `average(duration)`, etc. Every facet will be automatically graphed using this function)
 3. Enter the account ID (it should auto populate if possible)
 4. Click the Analyse button
 
