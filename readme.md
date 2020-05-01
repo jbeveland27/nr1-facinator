@@ -1,7 +1,7 @@
 [![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 
 # The Facinator
-A utility application that lets you easily explore the facets of the data from an NRQL query. Particularly useful in incident investigation or dashboard creation if you are tyring to understand how faceting a query by different facets affects the data.
+A utility application that lets you easily explore the facets of the data from an NRQL query. Particularly useful in incident investigation or dashboard creation if you are trying to understand how faceting a query affects the data.
 
 ![Zoom](gfx/zoom.png)
 
